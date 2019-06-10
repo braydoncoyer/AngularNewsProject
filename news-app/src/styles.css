@@ -3,3 +3,7 @@ body {
   padding: 2em 25em;
   background:lightgray;
 }
+
+.mat-drawer-container {
+  background-color: #f2f2f3;
+}
